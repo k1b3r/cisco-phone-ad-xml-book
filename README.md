@@ -7,11 +7,11 @@ Returns
 ```<CiscoIPPhoneDirectory>
   <Prompt>Records 1 to 4 of 4</Prompt>
     <DirectoryEntry>
-      <Name>Bahruz B.</Name>
+      <Name>Bahruz Y</Name>
       <Telephone>1131</Telephone>
     </DirectoryEntry>
     <DirectoryEntry>
-      <Name>Emin M.</Name>
+      <Name>Emin F</Name>
       <Telephone>1060</Telephone>
     </DirectoryEntry>
 </CiscoIPPhoneDirectory> 
